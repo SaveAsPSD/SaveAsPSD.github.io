@@ -1,0 +1,16 @@
+# Site Settings
+title: Noah Briley
+email: contact@noahbriley.com
+description: 15 Year Old Freelance Designer
+
+
+# Build settings
+
+markdown: kramdown
+permalink: pretty
+
+port: 3000
+
+sass:
+  sass_dir: assets/css/
+  style: :nested
